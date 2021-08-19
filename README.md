@@ -1,0 +1,1 @@
+This application will help educational organizations to keep and track records of student examination results and other related details. It is a simple and convenient solution to the conventional paper-based exams results evaluation and reporting management system.
